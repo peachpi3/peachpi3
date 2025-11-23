@@ -40,3 +40,5 @@
 ---
 
 ## 🧩 Projects
+### 중고거래 플랫폼, 다시마켓
+![](https://github.com/Team-Nuguri/dashimarket.git)
