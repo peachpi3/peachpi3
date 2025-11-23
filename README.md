@@ -44,5 +44,8 @@
 - [다시마켓](https://github.com/Team-Nuguri/dashimarket.git)
 
 ## 📊 Analytics
+### 무역 데이터 분석
+- [무역 데이터 분석](https://github.com/SujePepero/pepero-workspace.git)
+
 ### 범죄 발생 시간대 및 요일, 범죄자 범행동기 분석
 - [범죄 데이터 분석](https://github.com/peachpi3/data-analysis.git)
