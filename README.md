@@ -55,6 +55,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  <a href="https://velog.io/@gkdpthf1">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
