@@ -8,10 +8,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 # ⚙️ Tech Stack
 제가 즐겁게 다루고, 꾸준히 성장하고 있는 기술들입니다.
 
@@ -59,3 +55,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
