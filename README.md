@@ -1,12 +1,17 @@
-<h1 align="center">Welcome!👋</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f3de1a2f-36f9-425a-93bf-057b09844e01" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:A5A5FA,100:d6ace6&height=200&section=header&text=Welcome!👋&fontSize=60&fontColor=F8F6F7&stroke=7B6CFF&strokeWidth=2" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f3de1a2f-36f9-425a-93bf-057b09844e01" width="280">
 </div>
 <h3 align="center">"구조는 단단하게, 마음은 부드럽게 쌓아가는 개발자, 하예솔입니다. 😊"</h3>
 
 ---
 
 <br>
+<div align="center">
 
 # ⚙️ Tech Stack
 제가 즐겁게 다루고, 꾸준히 성장하고 있는 기술들입니다.
@@ -38,31 +43,37 @@
 ---
 
 # 🧩 Projects
+
 ## 💻 Web
 ### 중고거래 플랫폼, 다시마켓
-- [다시마켓](https://github.com/Team-Nuguri/dashimarket.git)
+[![Dashimarket](https://img.shields.io/badge/-Dashimarket-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Nuguri/dashimarket.git)
+<br>
 
 ## 📱Moblie
 ### 스마트 옷장 원격제어 앱, pure station
-- [pure station](https://github.com/peachpi3/android-PureStation.git)
+[![PureStation](https://img.shields.io/badge/-PureStation-e0ddff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/android-PureStation.git)
+<br>
 
 ## 🤖 Discord Bot
 ### 디스코드 봇, vine
-- [vine](https://github.com/peachpi3/discordBot-vine.git)
+[![vine](https://img.shields.io/badge/-Vine-5e5be8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/discordBot-vine.git)
+<br>
 
 ## 📊 Analytics
 ### 무역 데이터 분석
-- [무역 데이터 분석](https://github.com/SujePepero/pepero-workspace.git)
+[![무역 데이터 분석](https://img.shields.io/badge/-Trade-ffa37c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SujePepero/pepero-workspace.git)
+<br>
 
 ### 범죄 발생 시간대 및 요일, 범죄자 범행동기 분석
-- [범죄 데이터 분석](https://github.com/peachpi3/data-analysis.git)
+[![범죄 데이터 분석](https://img.shields.io/badge/-Crime-9152aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/data-analysis.git)
+</div>
 
 ---
 
 ## 🤩 More about me !
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gkdpthf1) <br>
 ![Discord](https://img.shields.io/badge/Discord-446219644056109057-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br>
-[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cxrrtcjbmn7nwtmqfqy2h5g54y?si=5a5a33a96d8643c4) <br>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cxrrtcjbmn7nwtmqfqy2h5g54y?si=5a5a33a96d8643c4) <br>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
