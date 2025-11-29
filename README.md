@@ -76,4 +76,4 @@
 ![Discord](https://img.shields.io/badge/Discord-446219644056109057-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=compact&theme=tokyonight)
