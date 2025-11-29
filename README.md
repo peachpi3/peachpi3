@@ -46,6 +46,10 @@
 ### 스마트 옷장 원격제어 앱, pure station
 - [pure station](https://github.com/peachpi3/android-PureStation.git)
 
+## 🤖 Discord Bot
+### 디스코드 봇, vine
+- [vine](https://github.com/peachpi3/discordBot-vine.git)
+
 ## 📊 Analytics
 ### 무역 데이터 분석
 - [무역 데이터 분석](https://github.com/SujePepero/pepero-workspace.git)
@@ -55,13 +59,10 @@
 
 ---
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  <a href="https://velog.io/@gkdpthf1">
-    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  </a>
+## 🤩 More about me !
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gkdpthf1) <br>
+![Discord](https://img.shields.io/badge/Discord-446219644056109057-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br>
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cxrrtcjbmn7nwtmqfqy2h5g54y?si=5a5a33a96d8643c4) <br>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peachpi3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
