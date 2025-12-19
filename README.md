@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:A5A5FA,100:d6ace6&height=200&section=header&text=Welcome!👋&fontSize=60&fontColor=F8F6F7&stroke=7B6CFF&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:A5A5FA,100:d6ace6&height=200&section=header&text=반갑습니다!&fontSize=60&fontColor=F8F6F7&stroke=7B6CFF&strokeWidth=2" />
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f3de1a2f-36f9-425a-93bf-057b09844e01" width="280">
-</div>
 <h3 align="center">"구조는 단단하게, 마음은 부드럽게 쌓아가는 개발자, 하예솔입니다. 😊"</h3>
 
 ---
