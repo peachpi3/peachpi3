@@ -8,7 +8,7 @@
 ---
 
 <br>
-<div align="center">
+<div>
 
 # ⚙️ Tech Stack
 제가 즐겁게 다루고, 꾸준히 성장하고 있는 기술들입니다.
