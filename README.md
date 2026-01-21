@@ -42,32 +42,26 @@
 # 🧩 Projects
 
 ## 💻 Web
-### 중고거래 플랫폼, 다시마켓
-![Dashimarket](https://img.shields.io/badge/-Dashimarket-2ea44f?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Team-Nuguri/dashimarket.git)
+### 중고거래 플랫폼, 다시마켓 ( <a href="https://github.com/Team-Nuguri/dashimarket.git">다시마켓</a> )
 <br>
 
-### 도서·영화를 연결해주는 라이프스타일 콘텐츠 플랫폼, BooGiMovie
-[![BooGiMovie](https://img.shields.io/badge/-BooGiMovie-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Oceans/BOOGiMOVIE_2.git)
+### 도서·영화를 연결해주는 라이프스타일 콘텐츠 플랫폼, BooGiMovie ( <a href="https://github.com/Team-Oceans/BOOGiMOVIE_2.git">부기무비</a> )
 <br>
 
 ## 📱Moblie
-### 스마트 옷장 원격제어 앱, pure station
-[![PureStation](https://img.shields.io/badge/-PureStation-e0ddff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/android-PureStation.git)
+### 스마트 옷장 원격제어 앱, Pure station ( <a href="https://github.com/peachpi3/android-PureStation.git">Pure station</a> )
 <br>
 
 
 ## 🤖 Discord Bot
-### 디스코드 봇, vine
-[![vine](https://img.shields.io/badge/-Vine-5e5be8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/discordBot-vine.git)
+### 디스코드 봇, vine ( <a href="https://github.com/peachpi3/discordBot-vine.git">vine</a> )
 <br>
 
 ## 📊 Analytics
-### 무역 데이터 분석
-[![무역 데이터 분석](https://img.shields.io/badge/-Trade-ffa37c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SujePepero/pepero-workspace.git)
+### 무역 데이터 분석 ( <a href="https://github.com/SujePepero/pepero-workspace.git">무역 분석</a> )
 <br>
 
-### 범죄 발생 시간대 및 요일, 범죄자 범행동기 분석
-[![범죄 데이터 분석](https://img.shields.io/badge/-Crime-9152aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/data-analysis.git)
+### 범죄 발생 시간대 및 요일, 범죄자 범행동기 분석 ( <a href="https://github.com/peachpi3/data-analysis.git">범죄 분석</a> )
 </div>
 
 ---
