@@ -43,7 +43,7 @@
 
 ## 💻 Web
 ### 중고거래 플랫폼, 다시마켓
-[![Dashimarket](https://img.shields.io/badge/-Dashimarket-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Nuguri/dashimarket.git)
+![Dashimarket](https://img.shields.io/badge/-Dashimarket-2ea44f?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Team-Nuguri/dashimarket.git)
 <br>
 
 ### 도서·영화를 연결해주는 라이프스타일 콘텐츠 플랫폼, BooGiMovie
