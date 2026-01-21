@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:A5A5FA,100:d6ace6&height=200&section=header&text=!&fontSize=60&fontColor=F8F6F7&stroke=7B6CFF&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:A5A5FA,100:d6ace6&height=200&section=header&text=안녕하세요!&fontSize=60&fontColor=F8F6F7&stroke=7B6CFF&strokeWidth=2" />
 </div>
 <br>
 
