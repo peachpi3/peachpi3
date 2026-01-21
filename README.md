@@ -73,7 +73,7 @@
 ---
 
 ## 🤩 More about me !
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gkdpthf1) <br>
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gkdpthf1/posts) <br>
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cxrrtcjbmn7nwtmqfqy2h5g54y?si=5a5a33a96d8643c4) <br>
 ![Discord](https://img.shields.io/badge/Discord-446219644056109057-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br>
 
