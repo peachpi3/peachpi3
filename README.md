@@ -46,10 +46,15 @@
 [![Dashimarket](https://img.shields.io/badge/-Dashimarket-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Nuguri/dashimarket.git)
 <br>
 
+### 도서·영화를 연결해주는 라이프스타일 콘텐츠 플랫폼, BooGiMovie
+[![BooGiMovie](https://img.shields.io/badge/-Dashimarket-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Oceans/BOOGiMOVIE_2.git)
+<br>
+
 ## 📱Moblie
 ### 스마트 옷장 원격제어 앱, pure station
 [![PureStation](https://img.shields.io/badge/-PureStation-e0ddff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peachpi3/android-PureStation.git)
 <br>
+
 
 ## 🤖 Discord Bot
 ### 디스코드 봇, vine
