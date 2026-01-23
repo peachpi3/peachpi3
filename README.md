@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:A5A5FA,100:d6ace6&height=200&section=header&text=안녕하세요!&fontSize=60&fontColor=F8F6F7&stroke=7B6CFF&strokeWidth=2" />
-</div>
+</div> -->
 <br>
 
-<h3 align="center">"<b>새로운 것을 이해해 실질적인 문제 해결로 이어나갈 때 가장 큰 동기를 얻는 개발자</b>, 하예솔입니다. 😊"</h3>
+<h3 align="center">"새로운 것을 이해해 실질적인 문제 해결로 이어나갈 때 가장 큰 동기를 얻는 개발자, 하예솔입니다. 😊"</h3>
 
 ---
 
