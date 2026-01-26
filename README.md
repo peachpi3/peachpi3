@@ -120,7 +120,7 @@
 ### 💠 무역 데이터 분석
 > "품목 간 무역 연동성과 미래 예측 가능성에 대한 AI 기술의 응용을 주제로 진행된 <br>‘제3회 국민대학교 AI빅데이터 분석 경진대회’에 참가하여 진행된 무역 데이터 분석입니다."
 
-> 📍 프로젝트 링크 <a href="https://github.com/SujePepero/pepero-workspace.git">무역 분석</a>
+> 📍 프로젝트 링크: <a href="https://github.com/SujePepero/pepero-workspace.git">무역 분석</a>
 <br>
 <hr>
 <br>
