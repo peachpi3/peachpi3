@@ -1,7 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=300&section=header&text=Learning%20deeply,-nl-building%20carefully.&fontSize=50&fontAlignY=40" />
 
-<h3 align="center">새로운 것을 이해해 실질적인 문제 해결로 이어나갈 때<br>
+<h3 align="center">안녕하세요.<br><br>새로운 것을 이해해 실질적인 문제 해결로 이어나갈 때<br>
   가장 큰 동기를 얻는 개발자, 하예솔입니다. 😊</h3>
+<div align="center">
+주변 사람들은 저를 끈기 있고 긍정적인 사람이라고 말합니다.<br>
+눈에 띄는 것보다는, 꾸준히 해내는 쪽이 제게 더 잘 맞습니다.<br>
+조금 느려 보일지라도, <b>"멈추지 않는 사람"</b>이 되고 싶습니다.
+</div>
 
 ---
 
@@ -113,12 +118,16 @@
 
 ## 📊 Analytics
 ### 💠 무역 데이터 분석
+> "품목 간 무역 연동성과 미래 예측 가능성에 대한 AI 기술의 응용을 주제로 진행된 <br>‘제3회 국민대학교 AI빅데이터 분석 경진대회’에 참가하여 진행된 무역 데이터 분석입니다."
+
 > 📍 프로젝트 링크 <a href="https://github.com/SujePepero/pepero-workspace.git">무역 분석</a>
 <br>
 <hr>
 <br>
 
 ### 💠 범죄 발생 시간대 및 요일, 범죄자 범행동기 분석
+> "일상의 안전과 직결되는 범죄 데이터를 심층적으로 이해하고자 해당 분석을 기획했습니다."
+
 > 📍 프로젝트 링크: <a href="https://github.com/peachpi3/data-analysis.git">범죄 분석</a>
 
 </div>
