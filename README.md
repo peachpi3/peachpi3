@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=300&section=header&text=Learning%20deeply,-nl-building%20carefully.&fontSize=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=250&section=header&text=Learning%20deeply,-nl-building%20carefully.&fontSize=50&fontAlignY=40" />
 
 <h3 align="center">안녕하세요.<br><br>새로운 것을 이해해 실질적인 문제 해결로 이어나갈 때<br>
   가장 큰 동기를 얻는 개발자, 하예솔입니다. 😊</h3>
